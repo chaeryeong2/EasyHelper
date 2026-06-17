@@ -1,7 +1,7 @@
 streamlit
 Pillow
-easyocr
-numpy
 torch
-transformers
+torchvision
+transformers>=4.49.0
 accelerate
+qwen-vl-utils
